@@ -1,0 +1,15 @@
+.spinner {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+
+  &-loading {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    background: url('../img/loading_icon.gif') no-repeat;
+    background-size: 40px 40px;
+  }
+}

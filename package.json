@@ -1,0 +1,28 @@
+{
+  "name": "vision-design",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:vmo-fed/vision-design.git",
+  "author": "liujie <liujie@mininglamp.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "react-outside-handle": "^1.0.5"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-outside-handle": "^1.0.5"
+  },
+  "devDependencies": {
+    "sass": "^1.20.1"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
